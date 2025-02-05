@@ -14,4 +14,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: xsd-schema
-          path: path/to/your/file.xsd
+          path: src/main/java/org/example/reference/router-conf.xsd
